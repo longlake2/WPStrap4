@@ -1,0 +1,19 @@
+{
+  "name": "WPStrap4",
+  "description": "Bootstrap 4 WordPress Theme",
+  "main": "",
+  "authors":"Mike Hart",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-beta",
+    "font-awesome": "^4.7.0"
+  }
+}
